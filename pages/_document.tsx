@@ -3,8 +3,10 @@ import { Html, Head, Main, NextScript } from "next/document";
 export default function Document() {
   return (
     <Html lang="en">
-      <title>Zallvies | Streaming Service</title>
-      <Head />
+      <Head>
+        <title>Zallvies | Streaming Movies</title>
+        <link rel="icon" href="/images/video.png" />
+      </Head>
       <body>
         <Main />
         <NextScript />
