@@ -1,0 +1,24 @@
+[33m8464f18[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD^
+[33m4127deb[m HEAD@{1}: reset: moving to HEAD^
+[33m3e958b1[m HEAD@{2}: reset: moving to HEAD^
+[33m0351488[m HEAD@{3}: reset: moving to HEAD^
+[33mbde78af[m HEAD@{4}: reset: moving to HEAD^
+[33m744ee0e[m HEAD@{5}: reset: moving to HEAD^
+[33m8c50323[m HEAD@{6}: reset: moving to HEAD^
+[33mdbfa02f[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{7}: Branch: renamed refs/heads/main to refs/heads/main
+[33mdbfa02f[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{9}: checkout: moving from main to main
+[33mdbfa02f[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{10}: commit: bugfix
+[33m8c50323[m HEAD@{11}: commit: bug-fix
+[33m744ee0e[m HEAD@{12}: commit: small change prisma
+[33mbde78af[m HEAD@{13}: Branch: renamed refs/heads/main to refs/heads/main
+[33mbde78af[m HEAD@{15}: Branch: renamed refs/heads/main to refs/heads/main
+[33mbde78af[m HEAD@{17}: commit: create zallvies
+[33m0351488[m HEAD@{18}: commit: Stopped tracking .env File
+[33m3e958b1[m HEAD@{19}: Branch: renamed refs/heads/main to refs/heads/main
+[33m3e958b1[m HEAD@{21}: Branch: renamed refs/heads/main to refs/heads/main
+[33m3e958b1[m HEAD@{23}: Branch: renamed refs/heads/main to refs/heads/main
+[33m3e958b1[m HEAD@{25}: Branch: renamed refs/heads/main to refs/heads/main
+[33m3e958b1[m HEAD@{27}: commit: Created Zallvies, netflix based clone utilizing next.js 14, TailwindCss, MongoDb, and Next-Auth
+[33m4127deb[m HEAD@{28}: Branch: renamed refs/heads/master to refs/heads/main
+[33m4127deb[m HEAD@{30}: commit: bugfixes
+[33m8464f18[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{31}: commit (initial): Initial commit from Create Next App
